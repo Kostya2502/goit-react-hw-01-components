@@ -1,0 +1,24 @@
+.history {
+  color: black;
+  width: 500px;
+  border: 1px solid grey;
+  text-align: center;
+  margin: auto;
+}
+
+th {
+  border: 1px solid grey;
+  background-color: #17ce97;
+  color: white;
+  font-size: 15px;
+  padding: 5px;
+}
+td {
+  border: 1px solid #9e1c1c;
+  font-size: 15px;
+  padding: 5px;
+}
+
+tr:nth-child(2n) {
+  background-color: #bce5f5;
+}

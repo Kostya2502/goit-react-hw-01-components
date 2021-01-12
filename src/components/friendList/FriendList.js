@@ -25,5 +25,4 @@ FriendList.propTypes = {
             id: PropTypes.number,
         }),
     ),
-
 }
